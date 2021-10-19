@@ -1,49 +1,51 @@
 #home {
-	background: #4B0082;
-	color: white;
+    background: #4B0082;
+    color: white;
 }
 
 .caixa {
-	padding: 60px 0;
-	border-bottom: 1px solid #4B0082;
+    padding: 60px 0;
+    border-bottom: 1px solid #4B0082;
 }
+
 
 /*Barra de navegação
 -------------------------- */
-header, .navbar {
-	background: #4B0082!important;
+
+header,
+.navbar {
+    background: #4B0082!important;
 }
 
 nav ul {
-	list-style: none;
-	float: right;
+    list-style: none;
+    float: right;
 }
 
 nav ul li {
-	float: left;
+    float: left;
 }
 
 nav ul li a:link {
-	display: block;
-	margin-right: 25px;
-	padding-bottom: 3px;
-	text-transform: uppercase;
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
 }
 
-.botao {
-	border-radius: 12px;
-	background-color: #4B0082;
+.botão {
+    border-radius: 12px;
+    background-color: #4B0082;
 }
 
-.botao:hover {
-	background-color: #ffffff;
-	color: black;
+.botão:hover {
+    background-color: #ffffff;
+    color: black;
 }
 
 .acessar {
-	display: flex;
-	margin-right: 25px;
-	padding-bottom: 3px;
-	text-transform: uppercase;
+    display: flex;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
 }
-
