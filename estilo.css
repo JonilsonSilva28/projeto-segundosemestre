@@ -4,7 +4,7 @@
 }
 
 .caixa {
-    padding: 60px 0;
+    padding: 60% 0;
     border-bottom: 1px solid #4B0082;
 }
 
@@ -15,6 +15,7 @@
 header,
 .navbar {
     background: #4B0082!important;
+    color: white;
 }
 
 nav ul {
@@ -36,11 +37,15 @@ nav ul li a:link {
 .botão {
     border-radius: 12px;
     background-color: #4B0082;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 50;
+    -ms-border-radius: 50;
+    -o-border-radius: 50;
 }
 
 .botão:hover {
     background-color: #ffffff;
-    color: black;
+    color: whitesmoke;
 }
 
 .acessar {
